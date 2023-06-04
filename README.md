@@ -48,8 +48,6 @@ https://yarn.social
 
 https://keepassxc.org/
 
-https://writefreely.org/
-
 http://mutt.org/
 
 https://newsboat.org/
@@ -70,5 +68,6 @@ https://betrusted.io/
 https://github.com/ByteWelder/Decktility
 
 https://yarh.io/
+
 ...# resources
 sites/resources for FOSS and the Smol Web
