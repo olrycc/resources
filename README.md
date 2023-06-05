@@ -54,7 +54,7 @@ https://newsboat.org/ (CLI-based RSS reader)
 
 https://lynx.invisible-island.net/ (CLI-based browser)
 
-https://github.com/offa/android-foss
+https://github.com/offa/android-foss (list of free/open source software (FOSS) for Android)
 
 https://github.com/shazow/ssh-chat (chat over SSH)
 
