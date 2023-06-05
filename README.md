@@ -40,6 +40,8 @@ http://websdr.org/
 
 https://tinytools.directory/
 
+https://github.com/cfenollosa/bashblog (create a blog through bash script)
+
 https://cryptpad.org/
 
 https://internet-in-a-box.org/
@@ -55,6 +57,9 @@ https://newsboat.org/
 https://lynx.invisible-island.net/
 
 https://github.com/offa/android-foss
+
+https://github.com/shazow/ssh-chat (chat over SSH)
+
 ...
 
 *TOOLS/HARDWARE*
@@ -68,6 +73,8 @@ https://betrusted.io/
 https://github.com/ByteWelder/Decktility
 
 https://yarh.io/
+
+https://github.com/joeycastillo/The-Open-Book (e-reader powered by the Raspberry Pi Pico)
 
 ...# resources
 sites/resources for FOSS and the Smol Web
