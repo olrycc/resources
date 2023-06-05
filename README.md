@@ -1,5 +1,3 @@
-tech jots
-
 *INTERESTING SITES*
 
 https://2600.com/ (magazine)
