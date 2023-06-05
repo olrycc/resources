@@ -22,7 +22,7 @@ https://gopher.tildeverse.org/atyh.net/0/ (off-grid Gopher phlog)
 
 https://sive.rs/ti (Derek Sivers on Tech Independence)
 
-https://github.com/redecentralize/alternative-internet (decentralized services online as alternativs to "main" sites/services)
+https://github.com/redecentralize/alternative-internet (resource list of decentralized services online as alternativs to "main" sites/services)
 
 https://gossipsweb.net (handmade Websites)
 
