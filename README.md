@@ -62,9 +62,9 @@ https://github.com/shazow/ssh-chat (chat over SSH)
 
 *TOOLS/HARDWARE*
 
-https://shop.sqfmi.com/products/beepberry (Beepberry)
+https://shop.sqfmi.com/products/beepberry (early development of Beepberry, a QWERTY keyboard communication device utilizing the Beeper messaging service)
 
-https://www.clockworkpi.com/ (uConsole, DevTerm, etc.)
+https://www.clockworkpi.com/ (uConsole, DevTerm, cyberdeck)
 
 https://betrusted.io/ (cyberdeck)
 
