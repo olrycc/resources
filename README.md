@@ -32,6 +32,8 @@ https://tilde.team/wiki/ttbp (Tilde Team wiki)
 
 https://samperson.itch.io/meadow (flying pixel birds and flowers grace Windows OS, including mail birds that drop off your e-mail)
 
+https://www.theverge.com/2012/5/8/3007525/paul-miller-offline (Paul Miller of The Verge spends a year without the Internet)
+
 ...
 
 *TOOLS/SOFTWARE*
