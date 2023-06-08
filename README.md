@@ -30,11 +30,11 @@ https://smallweb.page/home (intro to (the) small web)
 
 https://tilde.team/wiki/ttbp (Tilde Team wiki)
 
-https://suckless.org/ (software that sucks less)
-
 ...
 
 *TOOLS/SOFTWARE*
+
+https://suckless.org/ (software that sucks less)
 
 https://tinytools.directory/ (collection of small, lightweight services/software for...everything)
 
