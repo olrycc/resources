@@ -56,6 +56,8 @@ https://github.com/offa/android-foss (list of free/open source software (FOSS) f
 
 https://github.com/shazow/ssh-chat (chat over SSH)
 
+https://sxmo.org/ (lightweight Linux OS for mobile )
+
 ...
 
 *TOOLS/HARDWARE*
