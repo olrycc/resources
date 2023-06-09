@@ -36,6 +36,8 @@ https://www.theverge.com/2012/5/8/3007525/paul-miller-offline (Paul Miller of Th
 
 https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html (How to build a lowtech Website)
 
+https://wizardzines.com/ (programming zines)
+
 ...
 
 *TOOLS/SOFTWARE*
