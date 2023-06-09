@@ -34,6 +34,8 @@ https://samperson.itch.io/meadow (flying pixel birds and flowers grace Windows O
 
 https://www.theverge.com/2012/5/8/3007525/paul-miller-offline (Paul Miller of The Verge spends a year without the Internet)
 
+https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html (How to build a lowtech Website)
+
 ...
 
 *TOOLS/SOFTWARE*
