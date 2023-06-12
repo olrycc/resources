@@ -68,6 +68,8 @@ https://github.com/shazow/ssh-chat (chat over SSH)
 
 https://sxmo.org/ (lightweight Linux OS for mobile )
 
+https://github.com/Swordfish90/cool-retro-term (terminal that makes it look like you are using a CRT monitor - a lot of customizations)
+
 ...
 
 *TOOLS/HARDWARE*
