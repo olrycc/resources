@@ -38,6 +38,8 @@ https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html (How
 
 https://wizardzines.com/ (programming zines)
 
+https://teafry.me/dingle/index.html (small Website playground of teafry, running on this "Qingle")
+
 ...
 
 *TOOLS/SOFTWARE*
