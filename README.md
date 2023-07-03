@@ -72,6 +72,7 @@ https://sxmo.org/ (lightweight Linux OS for mobile )
 
 https://github.com/Swordfish90/cool-retro-term (terminal that makes it look like you are using a CRT monitor - a lot of customizations)
 
+https://infinitemac.org/ (from System 1.0 in 1984, to macOS 9.0 in 1999 - infinitemac allows one to experience each MacIntosh operating system through the years via one's own browser)
 ...
 
 *TOOLS/HARDWARE*
