@@ -74,6 +74,9 @@ https://github.com/Swordfish90/cool-retro-term (terminal that makes it look like
 
 https://infinitemac.org/ (from System 1.0 in 1984, to macOS 9.0 in 1999 - infinitemac allows one to experience each MacIntosh operating system through the years via one's own browser)
 
+https://radiofreefedi.net/ (non commercial, federated radio)
+
+
 ...
 
 *TOOLS/HARDWARE*
